@@ -1,6 +1,6 @@
 ## Hello Folks 👋:bowtie:
 ![](sk.PNG)
-##### My name is Shubham Kshatriya and I'm a student pursuing my Bachelor degree in Information Technology. I'm from Dahod, living in Vadodara. Some technologies I enjoy working with include Python, Django, Javascript(ES6), Bootstrap, Flutter,Java, etc. I 'm currently working on Web Dev, currently learning App Dev with Java and Flutter. Participating in Hackathons and Code Jams are my favourites and I was a finalist of Smart India Hackathon-2020(Software Edition). Apart from coding and dev, I like to pen down some blogs and some of my interests lie in Cricket, Novels and Painting.
+##### My name is Shubham Kshatriya and I'm a student pursuing my Bachelor's degree in Information Technology. I'm from Dahod, living in Vadodara. Some technologies I enjoy working with include Python, Django, Javascript(ES6), Bootstrap, Flutter, Java, etc. I 'm currently working on Web Dev, currently learning App Dev with Java and Flutter. Participating in Hackathons and Code Jams are my favorites and I was a finalist of Smart India Hackathon-2020(Software Edition). Apart from coding and dev, I like to pen down some blogs and some of my interests lie in Cricket, Novels, and Painting.
 
 ### You can find me here!:blue_heart:
 - [Linkedin](https://www.linkedin.com/in/shubhamkshatriya25/)
