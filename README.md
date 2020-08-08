@@ -12,7 +12,8 @@
 
 <br />
 <br />
-
+<br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=shubhamkshatriya25&&show_icons=true&title_color=06f791&icon_color=eaeeec&text_color=eaeeec&bg_color=191919">
 <a href="https://github.com/shubhamkshatriya25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkshatriya25&text_color=06f791&theme=dark&hide_langs_below=1" />
