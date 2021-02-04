@@ -3,11 +3,11 @@
 
 ### You can find me here!:blue_heart:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />](https://medium.com/@shubhamkshatriya521)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shubhamkshatriya25.github.io/portfolio/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.pngio.com/hd-website-logos-transparent-background-website-symbol-website-logo-png-2483_2686.png" />](https://shubhamkshatriya25.github.io/portfolio/)
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/shub_ham_25)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shubhHAM_)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shubhamkshatriya25/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/s.h.u.b.h.a.m._25/)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" />](https://twitter.com/shubhHAM_)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square.png" />](https://www.linkedin.com/in/shubhamkshatriya25/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />](https://www.instagram.com/s.h.u.b.h.a.m._25/)
 
 <br />
 <br />
