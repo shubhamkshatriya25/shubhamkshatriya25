@@ -1,5 +1,7 @@
 ## Hello Folks 👋
-#### My name is Shubham Kshatriya and I'm a student pursuing my Bachelor's degree in Information Technology. I'm from Dahod, living in Vadodara. Some technologies I enjoy working with include Python, Django, Javascript(ES6), Bootstrap, Flutter, Java, etc. I 'm currently working on Web Dev, currently learning App Dev with Java and Flutter. Participating in Hackathons and Code Jams are my favorites and I was a finalist of Smart India Hackathon-2020(Software Edition). Apart from coding and dev, I like to pen down some blogs and some of my interests lie in Cricket, Novels, and Painting.
+#### I'm Shubham Singh Kshatriya working as a Software Engineer at Zeus Learning. I completed my Bachelor's of Engineering in July, 2021 from Sardar Vallabhbhai Patel Institute of Technology. I live in Dahod which is a small town in Gujarat.
+
+#### I like playing and experimenting with codes and build stuffs. Currently, I am working around Vue JS, Django and Flutter. Besides this, I like to read books and also pen down technical blogs to teach/help nerds like me among the community.  Participating in Hackathons and Code Jams are my favorites and I was a finalist of Smart India Hackathon-2020(Software Edition) In my leisure time, I listen to songs, watch movies and animes(quite a big fan of this) and play chess and cricket. I love to connect with new people and exchange words and ideas with them. Ummmm, I guess this is all about me. 
 
 ### You can find me here!:blue_heart:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />](https://medium.com/@shubhamkshatriya521)
