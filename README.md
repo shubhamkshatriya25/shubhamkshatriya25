@@ -36,8 +36,8 @@ I like playing and experimenting with codes and build stuffs. Currently, I am wo
 <br /> 
   
 <a href="https://github.com/shubhamkshatriya25">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhamkshatriya25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamkshatriya25&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhamkshatriya25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamkshatriya25&layout=compact&langs_count=6&theme=dark"/>
 </a>
 <br />
 <br /> 
@@ -54,7 +54,7 @@ I like playing and experimenting with codes and build stuffs. Currently, I am wo
 <br />
 <br /> 
 
-### Visitor's count :eyes:</h4>
+### Visitor's count :eyes:
 
 <img src="https://profile-counter.glitch.me/{shubhamkshatriya25}/count.svg" alt="shubhamkshatriya25 :: Visitor's Count" />
 </div>
