@@ -3,7 +3,7 @@
 ### Hello &lt;devs/&gt; 👋
 ---
   
-I'm Shubham Singh Kshatriya working as a Software Engineer at Zeus Learning. I completed my Bachelor's of Engineering in July, 2021 from Sardar Vallabhbhai Patel Institute of Technology. I live in Dahod, a small town in Gujarat.
+I'm Shubham Singh Kshatriya working as a Software Engineer at Zeus Learning. I am a Core member of **Mozneurons** and Community Contributor at **Edpresso**. I completed my Bachelor's of Engineering in July, 2021 from Sardar Vallabhbhai Patel Institute of Technology. I live in Dahod, a small town in Gujarat.
 
 I like playing and experimenting with codes and build stuffs. Currently, I am working around Vue JS, Django and Flutter. Besides this, I like to read books and also pen down technical blogs to teach/help nerds like me among the community.  Participating in Hackathons and Code Jams are my favorites and I was a finalist of Smart India Hackathon-2020(Software Edition) In my leisure time, I listen to songs, watch movies and animes(quite a big fan of this) and play chess and cricket. I love to connect with new people and exchange words and ideas with them.
 <br />
@@ -20,15 +20,19 @@ I like playing and experimenting with codes and build stuffs. Currently, I am wo
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=green)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
  <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
 <br />
@@ -49,7 +53,8 @@ I like playing and experimenting with codes and build stuffs. Currently, I am wo
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/shubhHAM_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://www.instagram.com/s.h.u.b.h.a.m._25/)](https://www.instagram.com/s.h.u.b.h.a.m._25/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&labelColor=0077b5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamkshatriya25/)](https://www.linkedin.com/in/shubhamkshatriya25/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-fd1d1d?style=flat-square&labelColor=fd1d1d&logo=me&logoColor=white&link=https://shubhamkshatriya25.github.io/portfolio/)](https://shubhamkshatriya25.github.io/portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-fd1d1d?style=flat-square&labelColor=fd1d1d&logo=profile&logoColor=white&link=https://shubhamkshatriya25.github.io/portfolio/)](https://shubhamkshatriya25.github.io/portfolio/)
+[![Hackerrank Badge](https://img.shields.io/badge/-HackerRank-000?style=flat-square&labelColor=000&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/shub_ham_25)](https://www.hackerrank.com/shub_ham_25)
 <br />
 <br />
 <br /> 
