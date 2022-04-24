@@ -1,9 +1,11 @@
 <div align="center">
   
 ## Hello World 👋
-I'm Shubham Singh Kshatriya working as a Software Engineer at Zeus Learning. I am also a core member of **Mozneurons** and Technical Writer at [**Edpresso**, Educative.io](https://www.educative.io/profile/view/4908239310815232). I completed my Bachelor's of Engineering in July, 2021 from Sardar Vallabhbhai Patel Institute of Technology. I live in Dahod, a small town in Gujarat.
+I'm Shubham Singh Kshatriya working as a Software Engineer at [**Zeus Learning**](https://www.zeuslearning.com/). I am also a core member of [**MozNeurons**](https://github.com/MozNeurons) and a Technical Writer at [**Edpresso**, Educative.io](https://www.educative.io/profile/view/4908239310815232). I completed my Bachelor's of Engineering in July, 2021 from Sardar Vallabhbhai Patel Institute of Technology.
 
-I like playing and experimenting with codes and build stuffs. Currently, I am working around Vue JS, Django and Flutter. Besides this, I like to read books and also pen down technical blogs to teach/help nerds like me among the community.  Participating in Hackathons and Code Jams are my favorites and I was a finalist of Smart India Hackathon-2020(Software Edition) In my leisure time, I listen to songs, watch movies and animes(quite a big fan of this) and play chess and cricket. I love to connect with new people and exchange words and ideas with them.
+Currently, I am learning AWS and Solidity. Beside work, I like to read books and pen down technical blogs to teach/help nerds like me among the community. In my leisure time, I listen to songs, watch movies, animes (quite a big fan of this), play chess and cricket.
+ 
+Let's connect! and maybe exchange some words?!!
 <br />
 <br /> 
 
