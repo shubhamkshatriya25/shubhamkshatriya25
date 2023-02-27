@@ -1,11 +1,11 @@
 <div align="center">
   
 ## Hello World 👋
-I'm Shubham Singh Kshatriya working as a Software Engineer at [**Zeus Learning**](https://www.zeuslearning.com/). I am also a core member of [**MozNeurons**](https://github.com/MozNeurons) and a Technical Writer at [**Edpresso**, Educative.io](https://www.educative.io/profile/view/4908239310815232). I completed my Bachelor's of Engineering in July, 2021 from Sardar Vallabhbhai Patel Institute of Technology.
+As a software engineer, I am constantly striving to improve my skills and knowledge in the field of Information Technology. My journey in this field began in 2017, when I enrolled in the Bachelor of Engineering in Information Technology program at Sardar Vallabhbhai Patel Institute of Technology in Gujarat, India. Through hard work and dedication, I graduated with a CGPA of 9.71/10.0 in June 2021.
 
-Currently, I am learning AWS and Solidity. Beside work, I like to read books and pen down technical blogs to teach/help nerds like me among the community. In my leisure time, I listen to songs, watch movies, animes (quite a big fan of this), play chess and cricket.
- 
-Let's connect! and maybe exchange some words?!!
+In addition to my professional pursuits, I am an eternal student, constantly seeking to expand my knowledge and understanding of the world around me. I devour books like a hungry scholar, constantly seeking new insights and perspectives. And, like a mentor passing on their wisdom, I enjoy writing technical blogs to help and teach others in the community.
+
+My interests are as diverse as a colorful tapestry, from music and movies to anime, cricket, and chess. I believe that it is important to be well-rounded and have a broad understanding of different fields. And, like a social butterfly, I am always on the lookout for new people to connect with and exchange ideas with. As the famous quote goes, 'The more that you read, the more things you will know. The more that you learn, the more places you'll go' - Dr. Seuss. I strive to go to as many places as I can, both physically and mentally, through the power of learning and connection.
 <br />
 <br /> 
 
@@ -16,7 +16,7 @@ Let's connect! and maybe exchange some words?!!
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+<!-- ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp; -->
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -56,8 +56,4 @@ Let's connect! and maybe exchange some words?!!
 <img src="https://profile-counter.glitch.me/{shubhamkshatriya25}/count.svg" alt="shubhamkshatriya25 :: Visitor's Count" />
 <br />
 <br />
-<a href="https://www.twitter.com/shubhHAM_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shubhHAM_?logo=twitter&style=for-the-badge&color=22c55e&labelColor=22272e"
-/></a><a href="https://www.github.com/shubhamkshatriya25" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shubhamkshatriya25?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
 </div>
